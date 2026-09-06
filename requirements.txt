@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+yfinance
+pandas_datareader
+pandas
+seaborn
+scipy
+bayesian-optimization
+plotly
+LooseVersion
