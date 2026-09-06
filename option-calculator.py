@@ -759,7 +759,7 @@ with st.form("manual_put_ladder_form"):
     ladder_total_capital = top_col1.number_input(
         "Total Capital / Collateral",
         min_value=0.0,
-        value=122000.0,
+        value=100000.0,
         step=1000.0,
         placeholder="Example: 100000"
     )
